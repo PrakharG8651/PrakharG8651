@@ -15,10 +15,12 @@ I'm currently learning about the tech world. I like to explore new languages.<br
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharG8651&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Leetcode Badges:
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={Prakhar_8651})
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Prakhar_8651&animated=true&theme=nightowl" alt="LeetCode Badges" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrakharG8651&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Prakhar_8651&animated=true&theme=nightowl" alt="LeetCode Badges" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username={your-leetcode-username}&theme={your-theme}" alt="LeetCode Badges" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrakharG8651&icon=0&color=0)](https://visitcount.itsvg.in)
