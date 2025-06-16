@@ -14,6 +14,9 @@ I'm currently learning about the tech world. I like to explore new languages.<br
 ![](https://nirzak-streak-stats.vercel.app/?user=PrakharG8651&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrakharG8651&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# Leetcode Badges:
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username={Prakhar_8651})
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrakharG8651&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
